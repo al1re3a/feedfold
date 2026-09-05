@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+.env
+*.sqlite3
+data/
+report.html
+report.json
+result.csv
+*.exe
